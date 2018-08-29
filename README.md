@@ -16,8 +16,8 @@ Write a Python program that can predict the price of a house based on a set of p
 *	Use Logistic regression to create a predictive model using the modified data described in (c).
 *	Use a neural network to build a predictive model for the same data used in (d).
 # Work to Submit
-For (a) above, provide an explanation of the work that you have done.
-For (b) above, provide the Python code for the implementation using the Scikit-Learn library. Describe the performance of your answer by using appropriate metrics.
-For (c) above, provide the code for transforming the values in the PRICE column.
-For (d) above, provide the code for implementing logistic regression using your own Python code and without using the Scikit-Learn library. Using appropriate metrics, show the effectiveness of your model. Show the value of the cost as a function of the number of iterations in your algorithm.
-For (e) above, you have a choice of implementing your solution by either using the Scikit-Learn library or your own Python code implementation. In either case, provide the code and the performance metrics.
+For (a) above, provide an explanation of the work that you have done.  
+For (b) above, provide the Python code for the implementation using the Scikit-Learn library. Describe the performance of your answer by using appropriate metrics.  
+For (c) above, provide the code for transforming the values in the PRICE column.  
+For (d) above, provide the code for implementing logistic regression using your own Python code and without using the Scikit-Learn library. Using appropriate metrics, show the effectiveness of your model. Show the value of the cost as a function of the number of iterations in your algorithm.  
+For (e) above, you have a choice of implementing your solution by either using the Scikit-Learn library or your own Python code implementation. In either case, provide the code and the performance metrics.  
