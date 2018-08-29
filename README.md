@@ -1,7 +1,10 @@
 # Machine-Learning
 DC_Properties
 
-
+Machine Learning EE-690  
+Course Professor: Leon Jololian, Ph.D.  
+University of alabama at birmingham  
+  
 Please download the dataset for this project from the Kaggle Web site using the following URL:  https://www.kaggle.com/christophercorrea/dc-residential-properties . The name of the file containing the dataset is DC_Properties.csv. The dataset consists of real property information, including most recent sales price as of July 2018, for properties located in Washington, D.C. 
 The total number of rows in the file is approximately 160,000. There are forty-nine columns (features) for each data sample. Not every data sample is complete; there might be missing values in some of the rows.
 For this project, to make the data size more manageable, we will focus only on the data with SOURCE=’Residential’. This will reduce the data size to about 107,000 rows.
